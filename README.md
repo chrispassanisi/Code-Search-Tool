@@ -1,2 +1,2 @@
 # code-collection
-Web app that allows users to search for any code in GitHub repos to download program files.  
+Web application that searches all of the repositories on GitHub and downloads program files that have a line of code. 
