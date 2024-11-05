@@ -1,5 +1,5 @@
 # GitHub Code Search
-This Python script allows you to search for Python code files across GitHub repositories using the GitHub API. By providing a query, the script searches GitHub for files containing the specified code, and outputs the URLs of the results.
+This script allows you to search for Python code files across GitHub repositories using the GitHub API. By providing a query, the script searches GitHub for files containing the specified code, and outputs the URLs of the results.
 
 ---
 
